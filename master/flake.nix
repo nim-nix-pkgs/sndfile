@@ -1,5 +1,5 @@
 {
-  description = ''A wrapper of libsndfile'';
+  description = ''Wrapper for libsndfile'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
